@@ -1,0 +1,26 @@
+{
+  "name": "whittl",
+  "version": "3.0.2",
+  "main": [
+    "./dist/js/bootstrap.js",
+    "./dist/css/bootstrap.css",
+    "./dist/fonts/*"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  },
+  "authors": [
+    "Andrew Luhring"
+  ],
+  "description": "a test for whittl",
+  "license": "MIT",
+  "homepage": "http://www.androo.pro",
+  "private": true
+}
